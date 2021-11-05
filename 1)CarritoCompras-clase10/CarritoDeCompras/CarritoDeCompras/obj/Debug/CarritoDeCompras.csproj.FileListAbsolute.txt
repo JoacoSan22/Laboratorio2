@@ -1,0 +1,14 @@
+G:\Facultad\UDA\2do Semestre\Laboratorio 2\Desafios\CarritoDeCompras\CarritoDeCompras\CarritoDeCompras\obj\Debug\CarritoDeCompras.csproj.AssemblyReference.cache
+G:\Facultad\UDA\2do Semestre\Laboratorio 2\Desafios\CarritoDeCompras\CarritoDeCompras\CarritoDeCompras\obj\Debug\CarritoDeCompras.csproj.CoreCompileInputs.cache
+G:\Facultad\UDA\2do Semestre\Laboratorio 2\Desafios\CarritoDeCompras\CarritoDeCompras\CarritoDeCompras\bin\Debug\CarritoDeCompras.exe.config
+G:\Facultad\UDA\2do Semestre\Laboratorio 2\Desafios\CarritoDeCompras\CarritoDeCompras\CarritoDeCompras\bin\Debug\CarritoDeCompras.exe
+G:\Facultad\UDA\2do Semestre\Laboratorio 2\Desafios\CarritoDeCompras\CarritoDeCompras\CarritoDeCompras\bin\Debug\CarritoDeCompras.pdb
+G:\Facultad\UDA\2do Semestre\Laboratorio 2\Desafios\CarritoDeCompras\CarritoDeCompras\CarritoDeCompras\obj\Debug\CarritoDeCompras.exe
+G:\Facultad\UDA\2do Semestre\Laboratorio 2\Desafios\CarritoDeCompras\CarritoDeCompras\CarritoDeCompras\obj\Debug\CarritoDeCompras.pdb
+C:\Users\MegaTecnologia\Desktop\CarritoDeCompras_AlejoZanni-main\CarritoDeCompras\CarritoDeCompras\bin\Debug\CarritoDeCompras.exe.config
+C:\Users\MegaTecnologia\Desktop\CarritoDeCompras_AlejoZanni-main\CarritoDeCompras\CarritoDeCompras\bin\Debug\CarritoDeCompras.exe
+C:\Users\MegaTecnologia\Desktop\CarritoDeCompras_AlejoZanni-main\CarritoDeCompras\CarritoDeCompras\bin\Debug\CarritoDeCompras.pdb
+C:\Users\MegaTecnologia\Desktop\CarritoDeCompras_AlejoZanni-main\CarritoDeCompras\CarritoDeCompras\obj\Debug\CarritoDeCompras.csproj.AssemblyReference.cache
+C:\Users\MegaTecnologia\Desktop\CarritoDeCompras_AlejoZanni-main\CarritoDeCompras\CarritoDeCompras\obj\Debug\CarritoDeCompras.csproj.CoreCompileInputs.cache
+C:\Users\MegaTecnologia\Desktop\CarritoDeCompras_AlejoZanni-main\CarritoDeCompras\CarritoDeCompras\obj\Debug\CarritoDeCompras.exe
+C:\Users\MegaTecnologia\Desktop\CarritoDeCompras_AlejoZanni-main\CarritoDeCompras\CarritoDeCompras\obj\Debug\CarritoDeCompras.pdb
