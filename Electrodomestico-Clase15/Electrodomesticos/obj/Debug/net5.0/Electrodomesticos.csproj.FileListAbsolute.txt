@@ -1,0 +1,16 @@
+G:\Facultad\UDA\2do Semestre\Laboratorio 2\Desafios\Electrodomesticos\Electrodomesticos\bin\Debug\net5.0\Electrodomesticos.exe
+G:\Facultad\UDA\2do Semestre\Laboratorio 2\Desafios\Electrodomesticos\Electrodomesticos\bin\Debug\net5.0\Electrodomesticos.deps.json
+G:\Facultad\UDA\2do Semestre\Laboratorio 2\Desafios\Electrodomesticos\Electrodomesticos\bin\Debug\net5.0\Electrodomesticos.runtimeconfig.json
+G:\Facultad\UDA\2do Semestre\Laboratorio 2\Desafios\Electrodomesticos\Electrodomesticos\bin\Debug\net5.0\Electrodomesticos.runtimeconfig.dev.json
+G:\Facultad\UDA\2do Semestre\Laboratorio 2\Desafios\Electrodomesticos\Electrodomesticos\bin\Debug\net5.0\Electrodomesticos.dll
+G:\Facultad\UDA\2do Semestre\Laboratorio 2\Desafios\Electrodomesticos\Electrodomesticos\bin\Debug\net5.0\ref\Electrodomesticos.dll
+G:\Facultad\UDA\2do Semestre\Laboratorio 2\Desafios\Electrodomesticos\Electrodomesticos\bin\Debug\net5.0\Electrodomesticos.pdb
+G:\Facultad\UDA\2do Semestre\Laboratorio 2\Desafios\Electrodomesticos\Electrodomesticos\obj\Debug\net5.0\Electrodomesticos.csproj.AssemblyReference.cache
+G:\Facultad\UDA\2do Semestre\Laboratorio 2\Desafios\Electrodomesticos\Electrodomesticos\obj\Debug\net5.0\Electrodomesticos.GeneratedMSBuildEditorConfig.editorconfig
+G:\Facultad\UDA\2do Semestre\Laboratorio 2\Desafios\Electrodomesticos\Electrodomesticos\obj\Debug\net5.0\Electrodomesticos.AssemblyInfoInputs.cache
+G:\Facultad\UDA\2do Semestre\Laboratorio 2\Desafios\Electrodomesticos\Electrodomesticos\obj\Debug\net5.0\Electrodomesticos.AssemblyInfo.cs
+G:\Facultad\UDA\2do Semestre\Laboratorio 2\Desafios\Electrodomesticos\Electrodomesticos\obj\Debug\net5.0\Electrodomesticos.csproj.CoreCompileInputs.cache
+G:\Facultad\UDA\2do Semestre\Laboratorio 2\Desafios\Electrodomesticos\Electrodomesticos\obj\Debug\net5.0\Electrodomesticos.dll
+G:\Facultad\UDA\2do Semestre\Laboratorio 2\Desafios\Electrodomesticos\Electrodomesticos\obj\Debug\net5.0\ref\Electrodomesticos.dll
+G:\Facultad\UDA\2do Semestre\Laboratorio 2\Desafios\Electrodomesticos\Electrodomesticos\obj\Debug\net5.0\Electrodomesticos.pdb
+G:\Facultad\UDA\2do Semestre\Laboratorio 2\Desafios\Electrodomesticos\Electrodomesticos\obj\Debug\net5.0\Electrodomesticos.genruntimeconfig.cache

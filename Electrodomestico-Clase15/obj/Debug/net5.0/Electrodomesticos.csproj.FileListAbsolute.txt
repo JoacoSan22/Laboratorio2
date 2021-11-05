@@ -1,0 +1,10 @@
+C:\Users\MegaTecnologia\Desktop\Laboratorio2-main\Electrodomesticos\obj\Debug\net5.0\Electrodomesticos.csproj.AssemblyReference.cache
+C:\Users\MegaTecnologia\Desktop\Laboratorio2-main\Electrodomesticos\obj\Debug\net5.0\Electrodomesticos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MegaTecnologia\Desktop\Laboratorio2-main\Electrodomesticos\obj\Debug\net5.0\Electrodomesticos.AssemblyInfoInputs.cache
+C:\Users\MegaTecnologia\Desktop\Laboratorio2-main\Electrodomesticos\obj\Debug\net5.0\Electrodomesticos.AssemblyInfo.cs
+C:\Users\MegaTecnologia\Desktop\Laboratorio2-main\Electrodomesticos\obj\Debug\net5.0\Electrodomesticos.csproj.CoreCompileInputs.cache
+C:\Users\MegaTecnologia\Desktop\Electrodomesticos\obj\Debug\net5.0\Electrodomesticos.csproj.AssemblyReference.cache
+C:\Users\MegaTecnologia\Desktop\Electrodomesticos\obj\Debug\net5.0\Electrodomesticos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MegaTecnologia\Desktop\Electrodomesticos\obj\Debug\net5.0\Electrodomesticos.AssemblyInfoInputs.cache
+C:\Users\MegaTecnologia\Desktop\Electrodomesticos\obj\Debug\net5.0\Electrodomesticos.AssemblyInfo.cs
+C:\Users\MegaTecnologia\Desktop\Electrodomesticos\obj\Debug\net5.0\Electrodomesticos.csproj.CoreCompileInputs.cache
