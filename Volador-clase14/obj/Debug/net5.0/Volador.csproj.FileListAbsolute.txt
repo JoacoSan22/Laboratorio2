@@ -1,0 +1,15 @@
+G:\Facultad\UDA\2do Semestre\Laboratorio 2\Desafios\Volador\Volador\bin\Debug\net5.0\Volador.exe
+G:\Facultad\UDA\2do Semestre\Laboratorio 2\Desafios\Volador\Volador\bin\Debug\net5.0\Volador.deps.json
+G:\Facultad\UDA\2do Semestre\Laboratorio 2\Desafios\Volador\Volador\bin\Debug\net5.0\Volador.runtimeconfig.json
+G:\Facultad\UDA\2do Semestre\Laboratorio 2\Desafios\Volador\Volador\bin\Debug\net5.0\Volador.runtimeconfig.dev.json
+G:\Facultad\UDA\2do Semestre\Laboratorio 2\Desafios\Volador\Volador\bin\Debug\net5.0\Volador.dll
+G:\Facultad\UDA\2do Semestre\Laboratorio 2\Desafios\Volador\Volador\bin\Debug\net5.0\ref\Volador.dll
+G:\Facultad\UDA\2do Semestre\Laboratorio 2\Desafios\Volador\Volador\bin\Debug\net5.0\Volador.pdb
+G:\Facultad\UDA\2do Semestre\Laboratorio 2\Desafios\Volador\Volador\obj\Debug\net5.0\Volador.GeneratedMSBuildEditorConfig.editorconfig
+G:\Facultad\UDA\2do Semestre\Laboratorio 2\Desafios\Volador\Volador\obj\Debug\net5.0\Volador.AssemblyInfoInputs.cache
+G:\Facultad\UDA\2do Semestre\Laboratorio 2\Desafios\Volador\Volador\obj\Debug\net5.0\Volador.AssemblyInfo.cs
+G:\Facultad\UDA\2do Semestre\Laboratorio 2\Desafios\Volador\Volador\obj\Debug\net5.0\Volador.csproj.CoreCompileInputs.cache
+G:\Facultad\UDA\2do Semestre\Laboratorio 2\Desafios\Volador\Volador\obj\Debug\net5.0\Volador.dll
+G:\Facultad\UDA\2do Semestre\Laboratorio 2\Desafios\Volador\Volador\obj\Debug\net5.0\ref\Volador.dll
+G:\Facultad\UDA\2do Semestre\Laboratorio 2\Desafios\Volador\Volador\obj\Debug\net5.0\Volador.pdb
+G:\Facultad\UDA\2do Semestre\Laboratorio 2\Desafios\Volador\Volador\obj\Debug\net5.0\Volador.genruntimeconfig.cache
